@@ -1,0 +1,45 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+}
+
+#sfondo{
+  height: 150px;
+  background-color: rgb(78, 160, 255);
+}
+#sfondo img{
+  height: 150px;
+}
+#logo{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 250px;
+}
+
+#titolo{
+  padding: 5px;
+}
+
+#titolo h1{
+  margin: 0;
+  padding: 10px;
+  font-size: 50px;
+
+}
+
+#titolo h2{
+  color: rgb(156, 156, 156);
+  margin: 0;
+  padding-left: 10px;
+}
+
+#titolo span{
+  color: rgb(116, 200, 238);
+}
+
+#titolo h3{
+  color: rgb(156, 156, 156);
+  margin: 0;
+  padding-left: 10px;
+}
